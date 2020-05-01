@@ -1,8 +1,8 @@
 1. open only initiation & shots
 2. run intiation
-3. run shots using video (cars2)
+3. run shots using video (entry)
 4. from the variables , choose datatable to check the cars and the entry time
-5. run shots using video (cars3)
+5. run shots using video (exit)
 6. same as 4
 the results :
 figure with plate no.

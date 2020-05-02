@@ -13,3 +13,7 @@ all letters of plate no.
 the money that has to be paid
 
 *note : the cars images in the folder are the result of the run , you can delete them 
+
+video link :
+https://drive.google.com/open?id=1DmrKV2SSEJW4kmdw-1NEM2TrFFlr4FXO
+quality 1080
